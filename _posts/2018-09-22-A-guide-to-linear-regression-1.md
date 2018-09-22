@@ -14,7 +14,7 @@ mathjax: "true"
 
 ### H3 Heading
 
-Here's some basic text.
+Here's some basic text..
 
 And here's some *italics*
 
