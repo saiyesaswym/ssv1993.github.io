@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Sai Yesaswy"
 title_separator          : "-"
 name                     : "Sai Yesaswy Mylavarapu"
 description              : "Data Science Enthusiast."
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Sai Yesaswy Mylavarapu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Data Science Enthusiast."
+  avatar           : "/images/mypic.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A Data Science Enthusiast."
   location         : "Richmond, VA"
   email            :
   links:
