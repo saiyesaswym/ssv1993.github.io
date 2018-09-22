@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Explained"
+title                    : "Data Science Explained!"
 title_separator          : "-"
 name                     : "Sai Yesaswy Mylavarapu"
 description              : "A Data Science Enthusiast."
