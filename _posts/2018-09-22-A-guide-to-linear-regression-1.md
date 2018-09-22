@@ -3,7 +3,7 @@ title: "A guide to Linear regression: Part 1"
 date: 2018-09-22
 tags: [machine learning, data science, regression]
 header:
-  image: "/images/perceptron/linear_reg1.jpeg"
+  image: "/images/linear_reg1.jpeg"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
